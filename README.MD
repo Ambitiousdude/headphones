@@ -1,6 +1,6 @@
-# Welcome 👋 to my PROFILE!
+# Welcome 👋 to my first website design from SCRATCH!
 
-My name is **Ugberaese Augustine Osariemen**, I am a student at **ALX AFRICA**, currently working on some projects, and the first on the list is an **HTML WEBPAGE WITHOUT CSS** 
+My name is **Ugberaese Augustine Osariemen**, I am a student at **ALX AFRICA**, currently working on some projects.
 ![logo](Logo1.png)
 
 ## Table of contents 📑
@@ -11,17 +11,18 @@ My name is **Ugberaese Augustine Osariemen**, I am a student at **ALX AFRICA**, 
 
 
 ## Project Description
-This project is all about creating an HTML page from the scratch, using just HTML. 
-At the end of this project I will be able to explain the structure, and purpose of each HTML tag used.
+This project is all about designing a website from scratch, using HTML, and CSS. 
+At the end of this project I will be able to explain the how I structured my HTML, and CSS files. And also explain to you the purpose of the website.
 
 ## Technologies used
-**HTML**
+**HTML** and **CSS**
 
 ## Installation/Set-up
-- Create a **NEW** Respository in your Github account
+- Create a **NEW** Respository in your Github account(headphones)
 - Clone your respository in your Local working space(**VS CODE**)
-- Create a folder, and a README.md in the root of the folder
-- Create a file with an HTML extension e.g (Index.html)
+- Create a folder, and a README.md in the root of the folder explain the purpose of the project
+- Create a file with an HTML extension
+- Style your HTML file with CSS
 - Write your code inside, and open in a browser to text run
 
 ## 🤝Contact me
